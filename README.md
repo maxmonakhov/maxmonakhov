@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on **personal web projects**
 - 🌱 I’m currently learning `frontend development`
 - 💬 Ask me about **anything funny**
-- 📫 How to reach me: **maximmon.dev@gmail.com**
+- 📫 How to reach me: **maximon.dev@gmail.com**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I have 2 cats!**
 
