@@ -38,3 +38,32 @@
 
 ### GitHub Statistics
 ![Maxim Monakhov's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxifon&count_private=true&show_icons=true&)
+
+---
+
+<br>
+
+## Repositories
+
+> Many of repositories (**not all**) are grouped into GitHub "organisations" (like in directories/filders) for reaching a better structure.
+
+### ITMO projects (Лабораторные работы по предметам в ИТМО)
+Here are they:
+- 2nd semester (Java Programming | Прграммирование на Java) - [ITMO-2-sem](https://github.com/orgs/ITMO-2-sem-programming/dashboard)
+- 3rd semester (Web Programming | Web-программирование) - [ITMO-3-sem](https://github.com/orgs/ITMO-3-sem-web/dashboard)
+- 4th semester (Computational Math and Probability Theory | Вычислительная математика и Теория Вероятностей) - [ITMO-4-sem](https://github.com/orgs/ITMO-4-sem/dashboard)
+- 5th semester (Database and AI | Базы данных и ИИ) - [ITMO-5-sem](https://github.com/orgs/ITMO-5-sem/dashboard)
+
+
+<br>
+
+### Mini-projects for learning the new technologies (Мини-проекты для изучения новых технологий)
+[Learning and Courses](https://github.com/orgs/Learning-and-Courses/dashboard)
+
+
+<br>
+
+### Respositories with templates (Репозитории с шаблонами)
+For example, properly configured project with Webpack.
+
+[Maxifon Templates Library](https://github.com/orgs/Maxifon-Templates-Library/dashboard)
