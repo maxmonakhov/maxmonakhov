@@ -1,41 +1,75 @@
-# Hi 👋! 
+<h1 align="center">Hi there, I'm Max 
+<img src="./assets/hand.gif" height="32"/></h1>
+<h3 align="center">Computer science student, IT enthusiast!</h3>
+
 ### Take a look to know more about me:
 
 
 - 🔭 I’m currently working on **personal web projects**
-- 🌱 I’m currently learning `frontend development`
+- 🌱 I’m currently learning `web development`
 - 💬 Ask me about **anything funny**
 - 📫 How to reach me: **maximon.dev@gmail.com**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I have 2 cats!**
 
-## Languages & Tools:
+## Programming
 ### Frontend
 
-<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> &nbsp;&nbsp; <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> &nbsp;&nbsp; <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png">  &nbsp;&nbsp; <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> &nbsp;&nbsp; <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
+&nbsp; <img height="50" src="./assets/frontend/react.svg"> 
+&nbsp; <img height="50" src="./assets/frontend/typescript.svg"> 
+&nbsp;<img height="50" src="./assets/frontend/webpack.svg"> 
+&nbsp; <img height="50" src="./assets/frontend/html.svg">
+&nbsp; <img height="50" src="./assets/frontend/css.svg"> 
+&nbsp; <img height="50" src="./assets/frontend/sass.svg">
 
 <br>
 
 ### Backend
 
-<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> &nbsp;&nbsp; <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> &nbsp;&nbsp; <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
+&nbsp; <img height="50" src="./assets/backend/nodejs.svg">
+&nbsp; <img height="50" src="./assets/backend/typescript.svg">
+&nbsp; <img height="50" src="./assets/backend/nestjs.svg">
+&nbsp; <img height="50" src="./assets/backend/nextjs.svg">
+&nbsp;<img height="50" src="./assets/backend/java.svg">
+
+<br>
+
+### Data
+&nbsp;<img height="50" src="./assets/data/sql.svg">
+&nbsp;<img height="50" src="./assets/data/postgresql.svg">
+&nbsp;<img height="50" src="./assets/data/mongo.svg">
+
+<br>
 
 ### Deployment & infrastructure
+&nbsp;<img height="50" src="./assets/deployment-and-infrastructure/github.svg">
+&nbsp;<img height="50" src="./assets/deployment-and-infrastructure/heroku.svg">
+&nbsp;<img height="50" src="./assets/deployment-and-infrastructure/netlify.svg">
+
+<br>
 
 ### Tools
-<img height="50" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">
+&nbsp;<img height="50" src="./assets/tools/webstorm.svg">
+&nbsp;<img height="50" src="./assets/tools/figma.svg">
+&nbsp;<img height="50" src="./assets/tools/postman.svg">
+&nbsp;<img height="50" src="./assets/tools/linux.svg">
+&nbsp;<img height="50" src="./assets/tools/terminal.svg">
+&nbsp;<img height="50" src="./assets/tools/git.svg">
 
-<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+<br>
 
-<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
+### Other
+&nbsp;<img height="50" src="./assets/other/ethereum.svg">
+&nbsp;<img height="50" src="./assets/other/solidity.svg">
+
+<br>
 
 ---
 
 <br>
+
 ### GitHub Statistics
 
-
-<br>
 &nbsp; &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=maxifon&count_private=true&show_icons=true&"></img>
 
 <img src="https://github.com/maxifon/maxifon/blob/output/github-contribution-grid-snake.svg" /></p>
@@ -44,7 +78,7 @@
 
 <br>
 
-## Repositories
+## Explore
 
 > Many of repositories (**not all**) are grouped into GitHub "organisations" (like in directories/filders) for reaching a better structure.
 
