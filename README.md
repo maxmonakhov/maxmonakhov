@@ -41,6 +41,8 @@
 
 ---
 
+<img src="https://github.com/maxifon/maxifon/blob/output/github-contribution-grid-snake.svg" /></p>
+
 <br>
 
 ## Repositories
