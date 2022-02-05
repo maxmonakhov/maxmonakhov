@@ -70,35 +70,20 @@
 
 ### GitHub Statistics
 
-&nbsp; &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=maxifon&count_private=true&show_icons=true&"></img>
+&nbsp; &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxifon&hide=html">
+
+&nbsp; &nbsp; <img src="https://github-readme-stats.vercel.app/api/wakatime?username=maximon">
+
+&nbsp; &nbsp; <img src="https://github-readme-stats.vercel.app/api?username=maxifon&count_private=true&show_icons=true&"></img>
 
 <img src="https://github.com/maxifon/maxifon/blob/output/github-contribution-grid-snake.svg" /></p>
 
-
-
-<br>
-
-## Explore
-
-> Many of repositories (**not all**) are grouped into GitHub "organisations" (like in directories/filders) for reaching a better structure.
-
-### ITMO projects (Лабораторные работы по предметам в ИТМО)
-Here are they:
-- 2nd semester (Java Programming | Прграммирование на Java) - [ITMO-2-sem](https://github.com/orgs/ITMO-2-sem-programming/dashboard)
-- 3rd semester (Web Programming | Web-программирование) - [ITMO-3-sem](https://github.com/orgs/ITMO-3-sem-web/dashboard)
-- 4th semester (Computational Math and Probability Theory | Вычислительная математика и Теория Вероятностей) - [ITMO-4-sem](https://github.com/orgs/ITMO-4-sem/dashboard)
-- 5th semester (Database and AI | Базы данных и ИИ) - [ITMO-5-sem](https://github.com/orgs/ITMO-5-sem/dashboard)
-
+<figure><embed src="https://wakatime.com/share/@maximon/5c58efd0-1f4e-4ef7-a76a-c60ba8c3628c.svg"></embed></figure>
 
 <br>
 
-### Mini-projects for learning the new technologies (Мини-проекты для изучения новых технологий)
-[Learning and Courses](https://github.com/orgs/Learning-and-Courses/dashboard)
-
+## ✨ Explore ✨
+Take a look at my projects listed on a well-structured [project-navigation](https://github.com/maxifon/projects-navigation) page 🐾
 
 <br>
-
-### Respositories with templates (Репозитории с шаблонами)
-For example, properly configured project with Webpack.
-
-[Maxifon Templates Library](https://github.com/orgs/Maxifon-Templates-Library/dashboard)
+<br>
