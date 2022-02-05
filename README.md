@@ -72,13 +72,9 @@
 
 &nbsp; &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxifon&hide=html">
 
-&nbsp; &nbsp; <img src="https://github-readme-stats.vercel.app/api/wakatime?username=maximon">
-
 &nbsp; &nbsp; <img src="https://github-readme-stats.vercel.app/api?username=maxifon&count_private=true&show_icons=true&"></img>
 
 <img src="https://github.com/maxifon/maxifon/blob/output/github-contribution-grid-snake.svg" /></p>
-
-<figure><embed src="https://wakatime.com/share/@maximon/5c58efd0-1f4e-4ef7-a76a-c60ba8c3628c.svg"></embed></figure>
 
 <br>
 
