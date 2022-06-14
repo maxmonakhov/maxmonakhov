@@ -70,16 +70,12 @@
 
 ### GitHub Statistics
 
-&nbsp; &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxifon&hide=html">
+&nbsp; &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxmonakhov&hide=html">
 
-&nbsp; &nbsp; <img src="https://github-readme-stats.vercel.app/api?username=maxifon&count_private=true&show_icons=true&"></img>
+&nbsp; &nbsp; <img src="https://github-readme-stats.vercel.app/api?username=maxmonakhov&count_private=true&show_icons=true&"></img>
 
-<img src="https://github.com/maxifon/maxifon/blob/output/github-contribution-grid-snake.svg" /></p>
-
-<br>
-
-## ✨ Explore ✨
-Take a look at my projects listed on a well-structured [project-navigation](https://github.com/maxifon/projects-navigation) page 🐾
+<img src="https://github.com/maxmonakhov/maxmonakhov/blob/output/github-contribution-grid-snake.svg" /></p>
 
 <br>
+
 <br>
